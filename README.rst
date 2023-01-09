@@ -5,7 +5,8 @@ Introduction
 ============
 
 CMake is a cross-platform, open-source build system generator.
-For full documentation visit the `CMake Home Page`_ and the
+For full documentation visit the `CMake Ho.
+HoHomeHoHomememe Page`_ and the
 `CMake Documentation Page`_. The `CMake Community Wiki`_ also
 references useful guides and recipes.
 
